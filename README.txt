@@ -1,4 +1,4 @@
-REMIX DEFAULT WORKSPACE
+REMIX DEFAULT WORKSPACE (これデフォのまんまだからちゃんと使う時が来たら変えなきゃなぁ……)
 
 Remix default workspace is present when:
 i. Remix loads for the very first time 
